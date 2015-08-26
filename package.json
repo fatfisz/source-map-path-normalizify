@@ -1,6 +1,6 @@
 {
   "name": "source-map-path-normalizify",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "description": "Browserify transform that fixes source map paths",
   "keywords": [
